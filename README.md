@@ -1,4 +1,4 @@
-# Floaty
+# Floaty Test
 ![Swift 3.0](https://img.shields.io/badge/Swift-3.0-orange.svg)
 [![Version](https://img.shields.io/cocoapods/v/Floaty.svg?style=flat)](http://cocoapods.org/pods/floaty)
 [![License](https://img.shields.io/cocoapods/l/Floaty.svg?style=flat)](http://cocoapods.org/pods/floaty)
